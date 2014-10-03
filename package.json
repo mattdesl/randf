@@ -1,0 +1,40 @@
+{
+  "name": "randf",
+  "version": "1.0.0",
+  "description": "random float between a range",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Matt DesLauriers <dave.des@gmail.com>",
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "~2.13.2"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mattdesl/randf.git"
+  },
+  "homepage": "https://github.com/mattdesl/randf",
+  "bugs": {
+    "url": "https://github.com/mattdesl/randf/issues"
+  },
+  "keywords": [
+    "rand",
+    "ran",
+    "randf",
+    "random",
+    "Math",
+    "Math.random",
+    "float",
+    "range",
+    "value",
+    "within",
+    "inside",
+    "between",
+    "two",
+    "values",
+    "numbers"
+  ]
+}
