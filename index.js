@@ -9,7 +9,7 @@ function random(start, end) {
 		start = 0
 		end = 1
 	}
-    return start + Math.random() * (end - start)
+	return start + Math.random() * (end - start)
 }
 
 module.exports = random
